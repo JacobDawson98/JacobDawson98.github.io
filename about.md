@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: About Jacob
 permalink: /about/
 ---
 ### Experience
 
 #### Programming Intern, IMT Computer Services
-_May 2018 - Present_
-* Utilize test driven development to produce highly modularized, flexible, and extensible, code.
+_May 2018 - April 2019_
+* Utilized test driven development to produce highly modularized, flexible, and extensible, code.
 * Redesigned the frontend of the company dashboard to improve customer experience,
 update APIs, and to make way towards a consistent user interface among products.
 
