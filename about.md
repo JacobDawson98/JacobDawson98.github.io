@@ -14,7 +14,7 @@ To obtain a suitable software development role where I can grow as a Software En
 
 Providing immutable performance data to users and maintaining authenticity of sources, control commands, and data in energy operations.
 
-My role currently in the project is Report Manager.
+My role currently in the project is Project Manager.
 
 So far, I have gained a rudimentary understanding of implementing a blockchain network with Hyperledger Fabric and standard requirements gathering methodologies.
 
