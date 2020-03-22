@@ -8,21 +8,15 @@ permalink: /about/
 
 To obtain a suitable software development role where I can grow as a Software Engineer.
 
-### Senior Design Project
+### Projects
 
 #### [Applying Blockchain to Energy Delivery Systems](http://sdmay20-12.sd.ece.iastate.edu/)
 
 Providing immutable performance data to users and maintaining authenticity of sources, control commands, and data in energy operations.
 
-My role currently in the project is Project Manager.
-
-So far, I have gained a rudimentary understanding of implementing a blockchain network with Hyperledger Fabric and standard requirements gathering methodologies.
-
-### Projects
-
-#### Mobile Application to Aid Farm Equipment Technicians
-
-**Jaocb put some stuff here**
+As a Project Manager, I have worked on developing and writing the project plan, software specification, design plans, and test plans.
+I productively contribute to a Node backend application and integration of Hyperledger Fabric with the backend application.
+I also facilitate weekly virtual standups, organize client meetings, and create and delegate issues respective to team members’ roles
 
 #### [MazeLike](https://github.com/mazelikegame/mazelike)
 
@@ -32,41 +26,38 @@ My role in this project was a team developer. I took on tasks and implemented th
 
 I gained knowledge in Node.js development and Asynchronous programming.
 
-#### IMT Computer Services Systems Dashboard
-
-**Jacob put some stuff here**
-
 ### Experience
 
 #### Software Apprentice, [Source Allies](https://www.sourceallies.com)
 
 _May 2019 - August 2019_
 
-- Collaborated with software consultants and clients to produce a mobile application using React-native.
+As a Software Apprentice, I collaborated with software consultants and clients to produce a mobile application using React-native, Redux, and Java Spring Boot.
+I effectively used pair programming to develop and test solutions for user stories.
 
 #### Programming Intern, [IMT Computer Services](https://www.imtapps.com)
 
 _May 2018 - April 2019_
 
-- Utilized test driven development to produce highly modularized, flexible, and extensible, code.
-- Redesigned the frontend of the company dashboard to improve customer experience,
-  update APIs, and to make way towards a consistent user interface among products.
+As a Programming Intern, I utilized test-driven development to produce highly modularized, flexible, and extensible, code.
+I also redesigned the frontend of the company dashboard to improve customer experience,
+update APIs, and to make way towards a consistent user interface among products.
 
 #### Teaching Assistant, Iowa State University
 
 _August 2018 - December 2018_
 
-- Assisted students with introductory web development assignments.
-- Accurately graded assignments and provided detailed feedback.
+As a Teaching Assistant for Computer Science 106, I adivsed students on the fundamentals of 
+web development and using a comprehensive development life cycle. I also accuractely graded
+assignments and provided detailed feedback based on assesment criteria.
 
 #### CS Student Systems Support, Iowa State University
 
 _January 2018 - May 2018_
 
-- Created and responded to support cases, submitted by faculty and staff, whom
-  experienced hardware or software issues.
-- Provided proactive communication which increased customer satisfaction and
-  understanding.
+As a CS Student Systems Support Worker I created and responded to support cases, submitted by faculty and staff, whom
+experienced hardware or software issues. I also provided proactive communication which increased customer satisfaction and
+understanding.
 
 ### Education
 
@@ -74,8 +65,9 @@ _January 2018 - May 2018_
 
 _August 2016 - May 2020_
 
-- Cumulative GPA: 3.00
-- Classification: Senior
+- Cumulative GPA: 3.09
+- Multicultural Vision Program Scholar
+- Muscogee Creek Nation Undergraduate Scholar
 
 #### Development
 
@@ -89,3 +81,4 @@ _August 2016 - May 2020_
 ### Contact me
 
 [dawson@iastate.edu](mailto:dawson@iastate.edu)
+[LinkedIn](https://www.linkedin.com/in/jdawson98/)
