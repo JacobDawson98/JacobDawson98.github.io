@@ -22,7 +22,7 @@ I also facilitate weekly virtual standups, organize client meetings, and create 
 
 Multiplayer video game played in a browser.
 
-My role in this project was a team developer. I took on tasks and implemented them to the best of my ability at the time.
+As a team developer, I took on tasks and implemented them to the best of my ability at the time.
 
 I gained knowledge in Node.js development and Asynchronous programming.
 
